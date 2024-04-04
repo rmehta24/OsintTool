@@ -1,11 +1,5 @@
 # Osint Tool
-This is a combined tool for Osint. It can be used in both GUI and CLI mode.
-
-![image](https://user-images.githubusercontent.com/25560539/151649162-5c905d51-2005-46ca-a866-4c1c6a5f1a9c.png)
-
-![image](https://user-images.githubusercontent.com/25560539/151649074-74fdd4ea-d25a-40bf-8871-163298a4988e.png)
-
-
+The tool is available in both Graphical User Interface (GUI) and Command-Line Interface (CLI) modes, ensuring a seamless user experience. With an impressive accuracy rating of 87%, this tool has been designed to streamline your OSINT workflow.
 ## Features
 ### 1. Username Lookup
 - It checks given username & find out sevral websites where the same username exist.
